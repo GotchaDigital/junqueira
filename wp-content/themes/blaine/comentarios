@@ -1,0 +1,3 @@
+<!-- <section class="secondary">
+								<?php thb_comments( array('title_reply' => '<span>' . __('Leave a reply', 'thb_text_domain') . '</span>' )); ?>
+							</section> -->

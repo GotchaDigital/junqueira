@@ -1,0 +1,26 @@
+/*
+Theme Name: Blaine
+Theme URI: http://thehappybit.com
+Author: The Happy Bit
+Author URI: http://thehappybit.com
+Description: The Multi-purpose Portfolio theme
+Version: 1.2.3
+License URI: http://themeforest.net/licenses/regular_extended
+Tags: black, white, light, one-column, fluid-layout, custom-menu, featured-images, post-formats, translation-ready
+*/
+
+.wtitle{text-transform:uppercase;font-weight: bold;font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;color:#FFF;font-size: 14px;line-height: 23px;float:left;}
+
+
+#news{position:absolute; z-index:999; margin-top:-110px;}
+#news img, #feed img{float:left;margin-right:5px;}
+#news p{color:#a4a4a4;display:block;float:left;font-size:14px;margin-top: 10px;}
+#news input, #nw input{width: 240px;width: 221px;font-size: 10px;}
+#footer-sidebar{padding: 36px 0 0 0!important;}
+
+@media screen and (max-width:777px){
+	#nw{margin-top:-267px}
+}
+@media screen and (max-width:641px){
+	#nw{margin-top:-318px}
+}
