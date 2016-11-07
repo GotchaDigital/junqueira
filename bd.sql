@@ -1,3 +1,5 @@
+CREATE DATABASE  IF NOT EXISTS `junqueira` /*!40100 DEFAULT CHARACTER SET utf8 */;
+USE `junqueira`;
 -- MySQL dump 10.13  Distrib 5.7.9, for osx10.9 (x86_64)
 --
 -- Host: localhost    Database: gotchacomu_3
@@ -748,4 +750,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2016-11-07 12:32:02
+-- Dump completed on 2016-11-07 12:54:47
